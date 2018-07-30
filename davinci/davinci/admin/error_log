@@ -1,0 +1,70 @@
+[03-Oct-2017 11:25:17 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/effg17knit/public_html/davinci/admin/includes/connect.php on line 2
+[03-Oct-2017 11:25:17 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/effg17knit/public_html/davinci/admin/viewusers.php on line 9
+[03-Oct-2017 11:25:17 UTC] PHP Notice:  Trying to get property of non-object in /home/effg17knit/public_html/davinci/admin/viewusers.php on line 43
+[03-Oct-2017 11:25:29 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/effg17knit/public_html/davinci/admin/includes/connect.php on line 2
+[03-Oct-2017 11:25:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/effg17knit/public_html/davinci/admin/kleaderboard.php on line 9
+[03-Oct-2017 11:25:29 UTC] PHP Notice:  Trying to get property of non-object in /home/effg17knit/public_html/davinci/admin/kleaderboard.php on line 45
+[03-Oct-2017 11:25:32 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/effg17knit/public_html/davinci/admin/includes/connect.php on line 2
+[03-Oct-2017 11:25:32 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/effg17knit/public_html/davinci/admin/aleaderboard.php on line 9
+[03-Oct-2017 11:25:32 UTC] PHP Notice:  Trying to get property of non-object in /home/effg17knit/public_html/davinci/admin/aleaderboard.php on line 45
+[03-Oct-2017 11:25:36 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/effg17knit/public_html/davinci/admin/includes/connect.php on line 2
+[03-Oct-2017 11:25:36 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/effg17knit/public_html/davinci/admin/viewsubmit.php on line 9
+[03-Oct-2017 11:25:36 UTC] PHP Notice:  Trying to get property of non-object in /home/effg17knit/public_html/davinci/admin/viewsubmit.php on line 42
+[03-Oct-2017 11:25:40 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/effg17knit/public_html/davinci/admin/includes/connect.php on line 2
+[03-Oct-2017 11:25:40 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/effg17knit/public_html/davinci/admin/viewusers.php on line 9
+[03-Oct-2017 11:25:40 UTC] PHP Notice:  Trying to get property of non-object in /home/effg17knit/public_html/davinci/admin/viewusers.php on line 43
+[03-Oct-2017 11:26:32 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/effg17knit/public_html/davinci/admin/includes/connect.php on line 2
+[03-Oct-2017 11:26:32 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/effg17knit/public_html/davinci/admin/viewusers.php on line 9
+[03-Oct-2017 11:26:32 UTC] PHP Notice:  Trying to get property of non-object in /home/effg17knit/public_html/davinci/admin/viewusers.php on line 43
+[03-Oct-2017 11:28:54 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/effg17knit/public_html/davinci/admin/includes/connect.php on line 2
+[03-Oct-2017 11:28:54 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/effg17knit/public_html/davinci/admin/viewusers.php on line 9
+[03-Oct-2017 11:28:54 UTC] PHP Notice:  Trying to get property of non-object in /home/effg17knit/public_html/davinci/admin/viewusers.php on line 43
+[03-Oct-2017 11:28:58 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/effg17knit/public_html/davinci/admin/includes/connect.php on line 2
+[03-Oct-2017 11:28:58 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/effg17knit/public_html/davinci/admin/viewusers.php on line 9
+[03-Oct-2017 11:28:58 UTC] PHP Notice:  Trying to get property of non-object in /home/effg17knit/public_html/davinci/admin/viewusers.php on line 43
+[03-Oct-2017 11:29:00 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/effg17knit/public_html/davinci/admin/includes/connect.php on line 2
+[03-Oct-2017 11:29:00 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/effg17knit/public_html/davinci/admin/viewsubmit.php on line 9
+[03-Oct-2017 11:29:00 UTC] PHP Notice:  Trying to get property of non-object in /home/effg17knit/public_html/davinci/admin/viewsubmit.php on line 42
+[03-Oct-2017 11:29:07 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/effg17knit/public_html/davinci/admin/includes/connect.php on line 2
+[03-Oct-2017 11:29:07 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/effg17knit/public_html/davinci/admin/viewusers.php on line 9
+[03-Oct-2017 11:29:07 UTC] PHP Notice:  Trying to get property of non-object in /home/effg17knit/public_html/davinci/admin/viewusers.php on line 43
+[04-Oct-2017 03:35:17 UTC] PHP Notice:  Undefined index: level in /home/effg17knit/public_html/da/admin/upload.php on line 6
+[04-Oct-2017 03:35:17 UTC] PHP Notice:  Undefined index: answer in /home/effg17knit/public_html/da/admin/upload.php on line 7
+[04-Oct-2017 03:35:17 UTC] PHP Notice:  Undefined index: name in /home/effg17knit/public_html/da/admin/upload.php on line 8
+[04-Oct-2017 03:35:22 UTC] PHP Notice:  Undefined index: level in /home/effg17knit/public_html/da/admin/upload.php on line 6
+[04-Oct-2017 03:35:22 UTC] PHP Notice:  Undefined index: answer in /home/effg17knit/public_html/da/admin/upload.php on line 7
+[04-Oct-2017 03:35:22 UTC] PHP Notice:  Undefined index: name in /home/effg17knit/public_html/da/admin/upload.php on line 8
+[04-Oct-2017 03:43:21 UTC] PHP Notice:  Undefined index: level in /home/effg17knit/public_html/da/admin/upload.php on line 6
+[04-Oct-2017 03:43:21 UTC] PHP Notice:  Undefined index: answer in /home/effg17knit/public_html/da/admin/upload.php on line 7
+[04-Oct-2017 03:43:21 UTC] PHP Notice:  Undefined index: name in /home/effg17knit/public_html/da/admin/upload.php on line 8
+[04-Oct-2017 18:52:37 UTC] PHP Notice:  Undefined index: level in /home/effg17knit/public_html/davinci/admin/upload.php on line 6
+[04-Oct-2017 18:52:37 UTC] PHP Notice:  Undefined index: answer in /home/effg17knit/public_html/davinci/admin/upload.php on line 7
+[04-Oct-2017 18:52:37 UTC] PHP Notice:  Undefined index: name in /home/effg17knit/public_html/davinci/admin/upload.php on line 8
+[04-Oct-2017 18:52:42 UTC] PHP Notice:  Undefined index: level in /home/effg17knit/public_html/davinci/admin/upload.php on line 6
+[04-Oct-2017 18:52:42 UTC] PHP Notice:  Undefined index: answer in /home/effg17knit/public_html/davinci/admin/upload.php on line 7
+[04-Oct-2017 18:52:42 UTC] PHP Notice:  Undefined index: name in /home/effg17knit/public_html/davinci/admin/upload.php on line 8
+[04-Oct-2017 19:49:27 UTC] PHP Notice:  Undefined index: level in /home/effg17knit/public_html/davinci/admin/upload.php on line 6
+[04-Oct-2017 19:49:27 UTC] PHP Notice:  Undefined index: answer in /home/effg17knit/public_html/davinci/admin/upload.php on line 7
+[04-Oct-2017 19:49:27 UTC] PHP Notice:  Undefined index: name in /home/effg17knit/public_html/davinci/admin/upload.php on line 8
+[04-Oct-2017 19:49:46 UTC] PHP Notice:  Undefined index: level in /home/effg17knit/public_html/davinci/admin/upload.php on line 6
+[04-Oct-2017 19:49:46 UTC] PHP Notice:  Undefined index: answer in /home/effg17knit/public_html/davinci/admin/upload.php on line 7
+[04-Oct-2017 19:49:46 UTC] PHP Notice:  Undefined index: name in /home/effg17knit/public_html/davinci/admin/upload.php on line 8
+[04-Oct-2017 19:49:51 UTC] PHP Notice:  Undefined index: level in /home/effg17knit/public_html/davinci/admin/upload.php on line 6
+[04-Oct-2017 19:49:51 UTC] PHP Notice:  Undefined index: answer in /home/effg17knit/public_html/davinci/admin/upload.php on line 7
+[04-Oct-2017 19:49:51 UTC] PHP Notice:  Undefined index: name in /home/effg17knit/public_html/davinci/admin/upload.php on line 8
+[04-Oct-2017 19:49:57 UTC] PHP Notice:  Undefined index: level in /home/effg17knit/public_html/davinci/admin/upload.php on line 6
+[04-Oct-2017 19:49:57 UTC] PHP Notice:  Undefined index: answer in /home/effg17knit/public_html/davinci/admin/upload.php on line 7
+[04-Oct-2017 19:49:57 UTC] PHP Notice:  Undefined index: name in /home/effg17knit/public_html/davinci/admin/upload.php on line 8
+[05-Oct-2017 07:17:18 UTC] PHP Notice:  Undefined index: level in /home/effg17knit/public_html/davinci/admin/upload.php on line 6
+[05-Oct-2017 07:17:18 UTC] PHP Notice:  Undefined index: answer in /home/effg17knit/public_html/davinci/admin/upload.php on line 7
+[05-Oct-2017 07:17:18 UTC] PHP Notice:  Undefined index: name in /home/effg17knit/public_html/davinci/admin/upload.php on line 8
+[05-Oct-2017 14:31:55 UTC] PHP Notice:  Undefined index: level in /home/effg17knit/public_html/davinci/admin/upload.php on line 6
+[05-Oct-2017 14:31:55 UTC] PHP Notice:  Undefined index: answer in /home/effg17knit/public_html/davinci/admin/upload.php on line 7
+[05-Oct-2017 14:31:55 UTC] PHP Notice:  Undefined index: name in /home/effg17knit/public_html/davinci/admin/upload.php on line 8
+[05-Oct-2017 14:31:55 UTC] PHP Notice:  Undefined index: fileToUpload in /home/effg17knit/public_html/davinci/admin/upload.php on line 18
+[05-Oct-2017 14:31:55 UTC] PHP Notice:  Undefined index: fileToUpload in /home/effg17knit/public_html/davinci/admin/upload.php on line 28
+[06-Oct-2017 07:54:58 UTC] PHP Notice:  Undefined index: level in /home/effg17knit/public_html/davinci/admin/upload.php on line 6
+[06-Oct-2017 07:54:58 UTC] PHP Notice:  Undefined index: answer in /home/effg17knit/public_html/davinci/admin/upload.php on line 7
+[06-Oct-2017 07:54:58 UTC] PHP Notice:  Undefined index: name in /home/effg17knit/public_html/davinci/admin/upload.php on line 8
+[06-Oct-2017 07:54:58 UTC] PHP Notice:  Undefined index: fileToUpload in /home/effg17knit/public_html/davinci/admin/upload.php on line 18
+[06-Oct-2017 07:54:58 UTC] PHP Notice:  Undefined index: fileToUpload in /home/effg17knit/public_html/davinci/admin/upload.php on line 28
